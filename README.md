@@ -16,13 +16,19 @@
 
 De gebruikers van de fdnd website bestaat uit potenciele studenten, fdnd studenten, bestaande partners en potentiële partener. De belanerijkste doen van de gebruiker is het vinden van passende informatie over FDND. Een subdoel is het bekijken/inspireren van gemaakte werk van studenen en het bekijken van het leerprogramma (sprint & semesters).
 
+1: Als potentiële partner wil ik snel kunnen vinden in welke sprint ik het beste kan aansluiten zodat ik een aansluitende opdracht kan bedenken die goed aansluit op de stof van de sprint.
+
+2: Als potentiële student wil ik snel kunnen vinden wat voor soort opdrachten ik ga krijgen op deze opleiding zodat ik een goede keuze kan maken of deze opleiding bij mij past.
+
+3: Als potentiële student wil ik het werk van fdnd studenten kunnen bekijken zodat ik me kan laten inspireren.
+
 Is de flow logisch?
 Zijn de intercative element duidelijk?
 Weet een gebruiker wat die moet doen?
 
 ## Beschrijving
 
-[🌐 Live Versie](https://testassistent.student.fdnd.nl/)
+[🌐 Live Versie](https://m4tthys123.github.io/the-startup-fdnd-program/)
 
 De opleiding Frontend Development & Design wil een redesign van de program microsite die alle gewenste content bevat, tevens moet de content overzichtelijk zijn. En tenslotte moet de site voldoen aan de huisstijl.
 
@@ -32,12 +38,41 @@ De opleiding Frontend Development & Design wil een redesign van de program micro
 
 ## Kenmerken
 
+**Tools gebruikt:**
+
+- 💻 Visual Studio Code
+- ✍️ Illustrator
+- 🤳 Photoshop
+- 🖌️ Figma
+- 🐼 TinyPNG
+- ✍️ Pen & Papier
+
+**Code Skills:**
+
+- 💀 HTML5
+- 🧍 CSS3
+- ⚽ JavaScript
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
 
-## Gebruik
+Installeren met HTTPS
 
+```
+git clone https://github.com/JustinLung/saml-zelftestapp-campaign-website.git
+cd saml-zelftestapp-campaign-website
+```
+## Gebruik
+Installeren met HTTPS
+
+```
+git clone https://github.com/JustinLung/saml-zelftestapp-campaign-website.git
+cd saml-zelftestapp-campaign-website
+```
+
+## 📕 Wiki
+
+Link naar de [Wiki](https://github.com/JustinLung/saml-zelftestapp-campaign-website/wiki)
 ## Bronnen
 
 ## Licentie
