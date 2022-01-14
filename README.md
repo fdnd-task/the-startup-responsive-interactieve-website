@@ -22,6 +22,12 @@ De gebruikers van de fdnd website bestaat uit potenciele studenten, fdnd student
 
 3: Als potentiële student wil ik het werk van fdnd studenten kunnen bekijken zodat ik me kan laten inspireren.
 
+4: Als opdrachtgever wil ik dat een herontwerp van de fdnd programma microsite zodat alle gewenste content op de website te vinden is.
+
+5: Als opdrachtgever wil ik dat een herontwerp van de fdnd programma microsite zodat de presentatie van de content overzichtelijk is.
+
+
+
 Is de flow logisch?
 Zijn de intercative element duidelijk?
 Weet een gebruiker wat die moet doen?
@@ -43,8 +49,7 @@ De opleiding Frontend Development & Design wil een redesign van de program micro
 - 💻 Visual Studio Code
 - ✍️ Illustrator
 - 🤳 Photoshop
-- 🖌️ Figma
-- 🐼 TinyPNG
+- 🖌️ XD
 - ✍️ Pen & Papier
 
 **Code Skills:**
