@@ -64,20 +64,20 @@ De opleiding Frontend Development & Design wil een redesign van de program micro
 Installeren met HTTPS
 
 ```
-git clone https://github.com/JustinLung/saml-zelftestapp-campaign-website.git
+git clone https://github.com/M4TThys123/the-startup-fdnd-program.git
 cd saml-zelftestapp-campaign-website
 ```
 ## Gebruik
 Installeren met HTTPS
 
 ```
-git clone https://github.com/JustinLung/saml-zelftestapp-campaign-website.git
-cd saml-zelftestapp-campaign-website
+git clone https://github.com/M4TThys123/the-startup-fdnd-program.git
+cd the-startup-fdnd-program
 ```
 
 ## 📕 Wiki
 
-Link naar de [Wiki](https://github.com/JustinLung/saml-zelftestapp-campaign-website/wiki)
+Link naar de [Wiki](https://github.com/M4TThys123/the-startup-fdnd-program/wiki)
 ## Bronnen
 
 ## Licentie
