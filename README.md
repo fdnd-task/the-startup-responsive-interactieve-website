@@ -1,7 +1,6 @@
-# Titel
+# FDND Programma
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
+Dit is de herontwerp van de fdnd programma website. 
 ## 📙 Inhoudsopgave
 
 - [User Story](#beschrijving)
