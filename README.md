@@ -65,7 +65,7 @@ Installeren met HTTPS
 
 ```
 git clone https://github.com/M4TThys123/the-startup-fdnd-program.git
-cd saml-zelftestapp-campaign-website
+cd the-startup-fdnd-program
 ```
 ## Gebruik
 Installeren met HTTPS
