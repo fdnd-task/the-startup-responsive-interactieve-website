@@ -216,7 +216,10 @@ body > header {
   padding-top: 56.25%;
   background-size: cover;
   border-radius: var(--rounded);
-  background-image: url("assets/header-img-2.jpg");
+  background-image: url(.header-img-2.jpg);
+  background-image: url(./IMG_9718.jpg);
+
+
 }
 /* The actual title */
 body > header > h1 > span {
