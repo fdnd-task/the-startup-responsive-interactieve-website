@@ -216,10 +216,7 @@ body > header {
   padding-top: 56.25%;
   background-size: cover;
   border-radius: var(--rounded);
-  background-image: url(.header-img-2.jpg);
-  background-image: url(./IMG_9718.jpg);
-
-
+  grid-template-columns: minmax(20rem, 75rem) auto;
 }
 /* The actual title */
 body > header > h1 > span {
@@ -734,6 +731,7 @@ a.icon svg {
   body {
     padding: 1rem;
     display: grid;
+    grid-template-columns: minmax(20rem, 50rem);
     grid-template-areas:
       "header nav"
       "main nav"
@@ -779,9 +777,6 @@ a.icon svg {
   margin-bottom: 3.5em;
 }
 
-.het-statische-web h2{
-  margin-left: .000001em;
-}
 
 .static__card{
   border-radius: var(--rounded);
@@ -800,6 +795,7 @@ a.icon svg {
 .static__card p{
   margin-bottom: 1.5em;
   font-size: 16px;
+  color: var(--white);
 }
 
 .static__card span{
@@ -816,4 +812,16 @@ a.icon svg {
 }
 .static__container{
   margin-bottom: 4em;
+}
+
+.het-statische-web{
+  background: var(--blueberry);
+}
+
+.static__tags span{
+  margin-bottom: .5em;
+}
+/* swiper */
+.swiper-pagination{
+
 }
