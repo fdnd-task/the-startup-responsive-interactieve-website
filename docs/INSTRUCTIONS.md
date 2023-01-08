@@ -24,38 +24,24 @@ Op basis van een bestaand idee, concept of ontwerp ga je een responsive website 
 
 
 ### Analyseren
-In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. 
-
-#### Briefing/debriefing
-Tijdens de briefing krijg je uitleg over de opdracht en verzamel je alle informatie die je nodig hebt om de opdracht goed te kunnen uitvoeren. Met een debriefing laat je aan de opdrachtgever zien of je de opdracht goed hebt begrepen. 
-
-#### Interface inventory
-Doe een _interface audit_ van het ontwerp dat je hebt gekregen, waarin je een gecategoriseerde opsomming maakt van de componenten waaruit jouw website is opgebouwd. Het resultaat van de audit is een _interface inventory_, een verzameling van alle atomen, moleculen en organismen van de interface die je gaat maken.
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, interface audit, planning maken en definition of done bepalen.
 
 
 ### Ontwerpen
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. In de ontwerpfase maak je (responsive) schetsen, wireframes en wireflows van het ontwerp dat je gaat maken.
+Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, navigatiestructuur, responsive layout uitwerken, breakpointsbepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
 
-#### Responsive breakdown schetsen
-Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een breakdown. Doe zo nodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
-
-#### Wireflow
-Met een Wireflow laat je zien hoe interacties en animaties op een website eruit komen te zien. Teken een Wireflow van alle mogelijke output, de belangrijkste userflow en de interactie die je gaat maken. Maak een breakdown om te onderzoeken welke JS en CSS je nodig hebt.
 
 ### Bouwen
-In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
-
-#### Mobile First
-Je bouwt de opdracht volgens het principe van Mobile First met semantische HTML elementen en gestructureerde CSS.
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase. Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first.
 
 
 ### Integreren
-In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien met behulp van Github Pages. 
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Bijvoorbeeld: publiceren met Github Pages en het comitten en pushen van code.
+
 
 ### Testen
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. 
-
-Test je ontwerp en code twee keer tijdens de code/design reviews op vrijdag. Maak issues aan van de feedback die je krijgt en verbeter je werk aan de hand van de feedback. 
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. Bijvoorbeeld: code/design reviews, user testen en toegankelijkheid testen.
 
 
 ## Criteria
@@ -75,10 +61,10 @@ Voor deze leertaak gelden de gedragscriteria:
 
 Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
-- [ ] Je hebt een passende debriefing geschreven voor de opdrachtgever
-- [ ] Je hebt breakdown schetsen in de wiki met duidelijke aantekeningen voor de responsive layouts, de HTML structuur en CSS die je gaat maken
-- [ ] Je hebt wireflow schetsen in de wiki van de interacties en animaties met duidelijke aantekeningen van de JS en CSS die je gaat maken
-- [ ] Voor je website heb je gebruik gemaakt van semantische HTML elementen, gestructureerde CSS en duidelijk JS code en comments
-- [ ] Je hebt twee code/design reviews gedaan, issues aangemaakt van de feedback en de feedback verwerkt
+- [ ] Je toont aan dat je in de analysefase verschillende tools hebt ingezet om te inventariseren je wat er moet gebeuren
+- [ ] Je toont aan dat je in de ontwerpfase verschillende tools hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
+- [ ] Je toont aan dat je in de bouwfase verschillende tools hebt ingezet om het ontwerp te realiseren
+- [ ] Je toont aan dat je in de integratiefase verschillende tools hebt ingezet om je website live te zetten
+- [ ] Je toont aan dat je in de testfase verschillende tools hebt ingezet om het ontwerp te testen en verbeteren
 - [ ] De website staat op Github en heeft een live url
 
