@@ -35,7 +35,7 @@ Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labe
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase. 
-Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first.
+Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first toepassen.
 
 
 ### Integreren
