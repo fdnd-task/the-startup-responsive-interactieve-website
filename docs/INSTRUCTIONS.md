@@ -30,7 +30,7 @@ Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, sch
 
 ### Ontwerpen
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. 
-Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, navigatiestructuur, responsive layout uitwerken, breakpointsbepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
+Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, responsive layout uitwerken, breakpoints bepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
 
 
 ### Bouwen
