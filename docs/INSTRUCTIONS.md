@@ -80,7 +80,7 @@ Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
 - [ ] Je hebt een passende debriefing geschreven voor de opdrachtgever
 - [ ] Je hebt breakdown schetsen in de wiki met duidelijke aantekeningen voor de responsive layouts, de HTML structuur en CSS
-- [ ] Je hebt wireflow schetsen in de wiki van de interactie en animaties met duidelijke aantekeningen van de JS en CSS
+- [ ] Je hebt wireflow schetsen in de wiki van de interacties en animaties met duidelijke aantekeningen van de JS en CSS
 - [ ] Voor je website heb je gebruik gemaakt van semantische HTML elementen, gestructureerde CSS en duidelijk JS code en comments
 - [ ] Je hebt twee code/design reviews gedaan, issues aangemaakt van de feedback en de feedback verwerkt
 - [ ] De website staat op Github en heeft een live url
