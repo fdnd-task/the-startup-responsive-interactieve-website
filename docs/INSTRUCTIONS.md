@@ -24,24 +24,28 @@ Op basis van een bestaand idee, concept of ontwerp ga je een responsive website 
 
 
 ### Analyseren
-In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, interface audit, planning maken en definition of done bepalen.
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. 
+Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, interface audit, planning maken en definition of done bepalen.
 
 
 ### Ontwerpen
-In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. In de ontwerpfase maak je (responsive) schetsen, wireframes en wireflows van het ontwerp dat je gaat maken.
+In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. 
 Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, navigatiestructuur, responsive layout uitwerken, breakpointsbepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
 
 
 ### Bouwen
-In de bouwfase realiseer je de beslissingen uit de ontwerpfase. Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first.
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase. 
+Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first.
 
 
 ### Integreren
-In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Bijvoorbeeld: publiceren met Github Pages en het comitten en pushen van code.
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. 
+Bijvoorbeeld: publiceren met Github Pages en het comitten en pushen van code.
 
 
 ### Testen
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. Bijvoorbeeld: code/design reviews, user testen en toegankelijkheid testen.
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. 
+Bijvoorbeeld: code/design reviews, user testen en toegankelijkheid testen.
 
 
 ## Criteria
