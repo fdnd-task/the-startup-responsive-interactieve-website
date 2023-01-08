@@ -55,7 +55,7 @@ Voor deze leertaak gelden de gedragscriteria:
 * Methodisch handelen: Je volgt binnen projecten de aangeboden fasering van de development-lifeycle.
 * Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
 * Samenwerken: Je draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
-* Communiceren: Documenteert volgens aangeboden richtlijnen en houdt voortgang bij.
+* Communiceren: Je documenteert volgens aangeboden richtlijnen en houdt voortgang bij.
 * Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
 * Probleemoplossend vermogen:  Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.
 
