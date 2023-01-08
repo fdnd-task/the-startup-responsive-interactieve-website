@@ -9,10 +9,8 @@ In het college S06W1-01-Sprintplanning-the-startup krijg je uitleg over de opdra
 
 ## Doel van deze opdracht
 
-In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Alle studenten kunnen HTML, CSS en (een beetje) JS. 
+In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Je hebt kennis over HTML, CSS en (een beetje) JS. 
 In deze sprint ga je alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
-
-
 
 ## Werkwijze
 
@@ -39,7 +37,7 @@ Doe een _interface audit_ van het ontwerp dat je hebt gekregen, waarin je een ge
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. In de ontwerpfase maak je (responsive) schetsen, wireframes en wireflows van het ontwerp dat je gaat maken.
 
 #### Responsive breakdown schetsen
-Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een breakdown. Doe zonodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
+Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een breakdown. Doe zo nodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
 
 #### Wireflow
 Met een Wireflow laat je zien hoe interacties en animaties op een website eruit komen te zien. Teken een Wireflow van alle mogelijke output, de belangrijkste userflow en de interactie die je gaat maken. Maak een breakdown om te onderzoeken welke JS en CSS je nodig hebt.
@@ -48,8 +46,7 @@ Met een Wireflow laat je zien hoe interacties en animaties op een website eruit 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
 
 #### Mobile First
-Je bouwt de opdracht volgens het principe van Mobile First met 
-semantische HTML elementen en gestructureerde CSS.
+Je bouwt de opdracht volgens het principe van Mobile First met semantische HTML elementen en gestructureerde CSS.
 
 
 ### Integreren
@@ -58,7 +55,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien met
 ### Testen
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. 
 
-Test je ontwerp en code twee keer tijdens de code/design reviews op vrijdag. Maak issues aan van de feedback die je krijgt en verbeter de feedback. 
+Test je ontwerp en code twee keer tijdens de code/design reviews op vrijdag. Maak issues aan van de feedback die je krijgt en verbeter je werk aan de hand van de feedback. 
 
 
 ## Criteria
