@@ -38,10 +38,11 @@ Doe een _interface audit_ van het ontwerp dat je hebt gekregen, waarin je een ge
 ### Ontwerpen
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. In de ontwerpfase maak je (responsive) schetsen, wireframes en wireflows van het ontwerp dat je gaat maken.
 
-#### Responsive breakdown schets
+#### Responsive breakdown schetsen
 Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een brekadown. Doe zonodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
 
 #### Wireflow
+Met een Wireflow laat je zien hoe een interactie en aniamties op een website eruit komen te zien. Teken een Wireflow van alle mogelijke output, de belangrijkste userflow en de interactie die je gaat maken. Maak een breakdown om te onderzoeken welke JS en CSS je nodig hebt.
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
@@ -79,7 +80,8 @@ Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
 - [ ] Je hebt een passende debriefing geschreven voor de opdrachtgever
 - [ ] Je hebt breakdown schetsen in de wiki met duidelijke aantekeningen voor de responsive layouts, de HTML structuur en CSS
-- [ ] Je website maakt gebruik van semantische HTML elementen en gestructureerde CSS
+- [ ] Je hebt wireflow schetsen in de wiki van de interactie en animaties met duidelijke aantekeningen van de JS en CSS
+- [ ] Voor je website heb je gebruik gemaakt van semantische HTML elementen, gestructureerde CSS en duidelijk JS code en comments
 - [ ] Je hebt twee code/design reviews gedaan, issues aangemaakt van de feedback en de feedback verwerkt
 - [ ] De website staat op Github en heeft een live url
 
