@@ -25,7 +25,7 @@ Op basis van een bestaand idee, concept of ontwerp ga je een responsive website 
 
 ### Analyseren
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. 
-Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, interface audit, planning maken en definition of done bepalen.
+Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, inventarisatie van bestaande informatie, interface audit, interface inventory, planning, maken van een todo lijst en definition of done bepalen.
 
 
 ### Ontwerpen
