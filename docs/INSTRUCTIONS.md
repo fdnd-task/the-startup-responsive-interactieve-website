@@ -69,7 +69,7 @@ Doel van deze opdracht:
 * Je gaat alles wat je hebben geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
 Voor deze leertaak gelden de gedragscriteria: 
-* Methodisch handelen: je volgt binnen projecten de aangeboden fasering van de development-lifeycle.
+* Methodisch handelen: Je volgt binnen projecten de aangeboden fasering van de development-lifeycle.
 * Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
 * Samenwerken: Je draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
 * Communiceren: Documenteert volgens aangeboden richtlijnen en houdt voortgang bij.
