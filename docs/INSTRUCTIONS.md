@@ -9,44 +9,43 @@ In het college S06W1-01-Sprintplanning-the-startup krijg je uitleg over de opdra
 
 ## Doel van deze opdracht
 
-In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Je hebt kennis over HTML, CSS en (een beetje) JS. 
-In deze sprint ga je alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
+In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Je hebt kennis over HTML, CSS en (een beetje) JS. In deze sprint ga je alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
 ## Werkwijze
 
 Op basis van een bestaand idee, concept of ontwerp ga je een responsive website ontwerpen en maken voor een opdrachtgever.
 
-* Maandag 9 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met het bedrijf en wordt besproken wat je gaat maken. 
+* Maandag 9 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met de onderneming en wordt besproken wat je gaat maken. 
 
 * Je hebt 3 weken om de opdracht te maken. Hiervoor doorloop je de fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen) en pas je verschillende methoden en technieken toe die je hebt geleerd.  
 
 * Donderdag 26 januari wordt de opdracht gepresenteerd en opgeleverd. 
 
-
 ### Analyseren
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. 
-Bijvoorbeeld: grip krijgen op een taak door gesprekken met je opdrachtgever, schrijven van een debriefing, inventarisatie van bestaande informatie, interface audit, interface inventory, planning, maken van een todo lijst en definition of done bepalen.
 
+Bijvoorbeeld: grip krijgen op een taak door het voeren van een gesprek met jouw opdrachtgever, schrijven van een debriefing, inventarisatie van bestaande informatie, interface audit, interface inventory, planning, maken van een todo lijst en bepalen van definitions of done.
 
 ### Ontwerpen
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. 
-Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, responsive layout uitwerken, breakpoints bepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
 
+Bijvoorbeeld: het maken van idee-schetsen, wireframes en wireflows tekenen, labels bepalen, responsive layout uitwerken, breakpoints bepalen en breakdowns maken voor onderzoek naar semantische HTML elementen die je nodig hebt, hoe je de layout in CSS zou kunnen maken en welke JS en CSS je nodig hebt voor interacties en animaties.
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase. 
+
 Bijvoorbeeld: toepassen van HTML, CSS en JS, werken volgens conventies en best practices, toegankelijke code schrijven en mobile first toepassen.
 
 
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. 
-Bijvoorbeeld: publiceren met Github Pages en het comitten en pushen van code.
 
+Bijvoorbeeld: het comitten en pushen van code en publiceren met behulp van Github Pages.
 
 ### Testen
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig het ontwerp en/of de code aan. 
-Bijvoorbeeld: code/design reviews, user testen en toegankelijkheid testen.
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je zo nodig jouw ontwerp of de code aan om te beantwoorden aan jouw bevindingen. 
 
+Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toegankelijkheid testen met lighthouse en handmatige tests, je bevindingen documenteren en bepalen of je nog een iteratie maakt.
 
 ## Criteria
 
@@ -71,4 +70,3 @@ Deze opdracht is done als:
 - [ ] Je toont aan dat je in de integratiefase verschillende methoden en technieken hebt ingezet om je website live te zetten
 - [ ] Je toont aan dat je in de testfase verschillende methoden en technieken hebt ingezet om het ontwerp te testen en verbeteren
 - [ ] De website staat op Github en heeft een live url
-
