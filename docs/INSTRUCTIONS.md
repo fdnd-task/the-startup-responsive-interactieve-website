@@ -61,7 +61,7 @@ Voor deze leertaak gelden de gedragscriteria:
 
 Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
-- [ ] Je toont aan dat je in de analysefase verschillende tools hebt ingezet om te inventariseren je wat er moet gebeuren
+- [ ] Je toont aan dat je in de analysefase verschillende tools hebt ingezet om te inventariseren wat er moet gebeuren
 - [ ] Je toont aan dat je in de ontwerpfase verschillende tools hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
 - [ ] Je toont aan dat je in de bouwfase verschillende tools hebt ingezet om het ontwerp te realiseren
 - [ ] Je toont aan dat je in de integratiefase verschillende tools hebt ingezet om je website live te zetten
