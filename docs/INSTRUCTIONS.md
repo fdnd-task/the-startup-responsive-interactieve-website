@@ -10,7 +10,7 @@ In het college S06W1-01-Sprintplanning-the-startup krijg je uitleg over de opdra
 ## Doel van deze opdracht
 
 In het eerste semester van de opleiding FDND heb je veel geleerd over layout, responsive design, toegankelijkheid, interactie en het werken met een huisstijl. Alle studenten kunnen HTML, CSS en (een beetje) JS. 
-In deze sprint ga je alles wat je hebben geleerd toepassen om een opdracht voor een opdrachtgever te maken.
+In deze sprint ga je alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
 
 
