@@ -39,10 +39,10 @@ Doe een _interface audit_ van het ontwerp dat je hebt gekregen, waarin je een ge
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. In de ontwerpfase maak je (responsive) schetsen, wireframes en wireflows van het ontwerp dat je gaat maken.
 
 #### Responsive breakdown schetsen
-Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een brekadown. Doe zonodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
+Maak schetsen van de verschillende breakpoints voor het responsive ontwerp. Schets de layout voor S, M, L en/of XL schermen en maak aantekeningen waar de media-queries moeten komen. Bepaal voor alle elementen de HTML en CSS in een breakdown. Doe zonodig onderzoek naar semantische HTML elementen die je nodig hebt en hoe je de layout in CSS zou kunnen maken. 
 
 #### Wireflow
-Met een Wireflow laat je zien hoe een interactie en aniamties op een website eruit komen te zien. Teken een Wireflow van alle mogelijke output, de belangrijkste userflow en de interactie die je gaat maken. Maak een breakdown om te onderzoeken welke JS en CSS je nodig hebt.
+Met een Wireflow laat je zien hoe interacties en animaties op een website eruit komen te zien. Teken een Wireflow van alle mogelijke output, de belangrijkste userflow en de interactie die je gaat maken. Maak een breakdown om te onderzoeken welke JS en CSS je nodig hebt.
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
