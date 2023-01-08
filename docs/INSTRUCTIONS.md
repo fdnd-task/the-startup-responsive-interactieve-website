@@ -66,7 +66,7 @@ Test je ontwerp en code twee keer tijdens de code/design reviews op vrijdag. Maa
 Focus sprint 6 - Je gebruikt fundamentele principes van het web voor het ontwerpen en ontwikkelen van eenvoudige gebruiksvriendelijke interactieve toepassingen voor een opdrachtgever.
 
 Doel van deze opdracht:
-* Je gaat alles wat je hebben geleerd toepassen om een opdracht voor een opdrachtgever te maken.
+* Je gaat alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
 
 Voor deze leertaak gelden de gedragscriteria: 
 * Methodisch handelen: Je volgt binnen projecten de aangeboden fasering van de development-lifeycle.
