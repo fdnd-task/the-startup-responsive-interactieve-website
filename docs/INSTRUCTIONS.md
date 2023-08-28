@@ -47,22 +47,12 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld en pas je
 
 Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toegankelijkheid testen met lighthouse en handmatige tests, je bevindingen documenteren en bepalen of je nog een iteratie maakt.
 
-## Criteria
+## Definition of done
 
 Focus sprint 6 - Je gebruikt fundamentele principes van het web voor het ontwerpen en ontwikkelen van eenvoudige gebruiksvriendelijke interactieve toepassingen voor een opdrachtgever.
 
-Doel van deze opdracht:
-* Je gaat alles wat je hebt geleerd toepassen om een opdracht voor een opdrachtgever te maken.
-
-Voor deze leertaak gelden de gedragscriteria: 
-* Methodisch handelen: Je volgt binnen projecten de aangeboden fasering van de development-lifeycle.
-* Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
-* Samenwerken: Je draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
-* Communiceren: Je documenteert volgens aangeboden richtlijnen en houdt voortgang bij.
-* Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
-* Probleemoplossend vermogen:  Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.
-
 Deze opdracht is done als:
+
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
 - [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
 - [ ] Je toont aan dat je in de ontwerpfase verschillende methoden en technieken hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
