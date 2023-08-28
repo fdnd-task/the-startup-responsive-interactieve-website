@@ -12,3 +12,6 @@
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
 
 ## Licentie
+
+This project is licensed under the terms of the [MIT license](./LICENSE).
+
