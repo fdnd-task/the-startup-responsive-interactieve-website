@@ -19,7 +19,7 @@ Op basis van een bestaand idee, concept of ontwerp ga je een responsive website 
 
 * Je hebt 3 weken om de opdracht te maken. Hiervoor doorloop je de fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen) en pas je verschillende methoden en technieken toe die je hebt geleerd.  
 
-* Donderdag 25 januari wordt de opdracht gepresenteerd en opgeleverd.
+* Donderdag 25 januari wordt de opdracht bij de opdrachtgever gepresenteerd en opgeleverd.
 
 * Vrijdag 26 januari vindt bij FDND een expo plaats met al jullie werk. Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nodig ze hiervoor dan uit!
 
