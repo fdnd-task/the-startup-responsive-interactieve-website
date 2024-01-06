@@ -15,11 +15,13 @@ In het eerste semester van de opleiding FDND heb je veel geleerd over layout, re
 
 Op basis van een bestaand idee, concept of ontwerp ga je een responsive website ontwerpen en maken voor een opdrachtgever.
 
-* Maandag 9 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met de onderneming en wordt besproken wat je gaat maken. 
+* Maandag 8 januari krijg je een briefing bij de opdrachtgever. Tijdens de briefing maak je kennis met de onderneming en wordt besproken wat je gaat maken. 
 
 * Je hebt 3 weken om de opdracht te maken. Hiervoor doorloop je de fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen) en pas je verschillende methoden en technieken toe die je hebt geleerd.  
 
-* Donderdag 26 januari wordt de opdracht gepresenteerd en opgeleverd. 
+* Donderdag 25 januari wordt de opdracht gepresenteerd en opgeleverd.
+
+* Vrijdag 26 januari vindt bij FDND een expo plaats met al jullie werk. Als je vrienden of familie eens wilt laten zien waar je zoal mee bezig bent, nodig ze hiervoor dan uit!
 
 ### Analyseren
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren. 
