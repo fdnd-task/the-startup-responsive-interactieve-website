@@ -1,0 +1,168 @@
+@font-face {
+    font-family: "DM Sans";
+    src: 
+    url('/assets/fonts/DMSans/DMSans_24pt-Regular.ttf')format('truetype');
+}
+
+@font-face {
+    font-family: "Crimson text";
+    src: 
+    url('/assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
+}
+
+:root {
+    --primairy-yellow: #F2A900;
+    --primairy-light-yellow:#FDF2D9;
+    --primairy-black: #000;
+    --primairy-white:#fff;
+
+    --gray-light: #C8C9C7;
+    --gray-regular:#75787B;
+    --gray-dark:#53565A;
+
+}
+
+
+body{
+    margin: 0;
+}
+
+main {
+    margin: 0 auto;
+}
+
+header {
+    background-color: #FFF;
+    margin: 0;
+    height: auto;
+    display: block;
+    box-shadow: 0em 0em 1em #00000043;
+}
+
+header img { 
+    margin: 1em;
+    height: 2.2em;
+    width: auto;
+    cursor: pointer;
+}
+
+section {
+    padding: 2em;
+}
+
+h1, h2, h3, h4, h5, h6, button{ 
+    font-weight: 700;
+    font-family: "DM Sans";
+
+}
+
+p, li, ul {
+    font-family: "Crimson text";
+}
+
+button {
+    border-radius: 0;
+    border-style: none;
+    padding: 1em;
+}
+
+.underline {
+    border-bottom: solid .2em var(--primairy-yellow);
+    /* text-decoration: underline var(--primairy-yellow) solid .2em ; */
+}
+
+
+/* section heading */
+.heading {
+    background-color: var(--primairy-light-yellow);
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading button {
+ padding: 1em;
+ text-align: left;
+ width: fit-content;
+ background-color: var(--primairy-yellow);
+ cursor: pointer;
+}
+/* section heading */
+
+
+
+
+
+
+/* section info-longread */
+.info-longread ul {
+    padding-inline-start: 1.2em;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    list-style-type: none;
+
+}
+
+/* section info-longread */
+
+
+
+
+
+
+/* section form */
+
+
+.download-form > div {
+    padding: 2em;
+    background: var(--gray-light);
+
+}
+
+
+.download-form form ul {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+
+}
+
+.download-form form li {
+    list-style: url('assets/icons/check-icon.svg');
+    display: block;
+}
+
+.download-form form li label {
+    display: flex;
+    flex-direction: column;
+    font-family: "DM sans";
+}
+
+.download-form form li input {
+
+}
+
+.download-form div div {
+    display: flex;
+    flex-direction: column;
+    margin: .8em 0 .8em 0;
+    gap: .8em;
+}
+
+.download-form div div button {
+    background: var(--primairy-yellow);
+    width: 100%;
+    height: auto;
+}
+
+.download-form div div .privacy{
+    background: var(--primairy-white);
+    color: var(--primairy-black);
+    text-align: right;
+    width: fit-content;
+    font-size: .8em;
+}
+/* section form */
+
+
+
