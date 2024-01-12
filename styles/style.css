@@ -129,7 +129,6 @@ button {
     background: url("../assets/icons/check-icon.svg") no-repeat left center;
     background-size: 1em;
     list-style-type: none;
-
     margin-block-start: 1em;
     margin-block-end: 1em;
 }
