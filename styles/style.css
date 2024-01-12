@@ -126,7 +126,7 @@ button {
 
 .info-longread ul li {
     padding-left: 2em;
-    background: url("/assets/icons/check-icon.svg") no-repeat left center;
+    background: url("../assets/icons/check-icon.svg") no-repeat left center;
     background-size: 1em;
     list-style-type: none;
 
