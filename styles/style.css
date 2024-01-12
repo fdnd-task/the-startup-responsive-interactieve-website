@@ -24,19 +24,25 @@
 
 
 body{
-    margin: 0;
+    margin: 0 auto;
+    width: 100%;
 }
 
 main {
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    flex-wrap: nowrap;
+    gap: 5em
+
 }
 
 header {
     background-color: #FFF;
-    margin: 0;
     height: auto;
     display: block;
     box-shadow: 0em 0em 1em #00000043;
+    margin: 0 auto;
 }
 
 header img { 
@@ -46,9 +52,9 @@ header img {
     cursor: pointer;
 }
 
-section {
+/* section {
     padding: 2em;
-}
+} */
 
 h1, h2, h3, h4, h5, h6, button{ 
     font-weight: 700;
@@ -56,8 +62,12 @@ h1, h2, h3, h4, h5, h6, button{
 
 }
 
-p, li, ul {
+p {
     font-family: "Crimson text";
+}
+
+ul {
+    font-family: "DM sans";
 }
 
 button {
@@ -71,16 +81,20 @@ button {
     /* text-decoration: underline var(--primairy-yellow) solid .2em ; */
 }
 
-
 /* section heading */
-.heading {
+.heading-content {
     background-color: var(--primairy-light-yellow);
     padding: 3em;
     display: flex;
     flex-direction: column;
+    margin: 0 auto;
+    width: 100%; /* Add this line */
+    max-width: fit-content;
 }
 
-.heading button {
+
+
+.heading-content button {
  padding: 1em;
  text-align: left;
  width: fit-content;
@@ -95,12 +109,31 @@ button {
 
 
 /* section info-longread */
+.info-longread {
+    padding: 0 2em 0 2em;
+}
+
+.info-longread > article {
+    margin-bottom: 3em;
+}
+.info-longread p {
+    max-width: 30em;
+}
+
 .info-longread ul {
-    padding-inline-start: 1.2em;
-    margin-block-start: 0;
-    margin-block-end: 0;
+    padding-inline-start: 0em;
+    list-style: none;
+    
+}
+
+.info-longread ul li {
+    padding-left: 2em;
+    background: url("/assets/icons/check-icon.svg") no-repeat left center;
+    background-size: 1em;
     list-style-type: none;
 
+    margin-block-start: 1em;
+    margin-block-end: 1em;
 }
 
 /* section info-longread */
@@ -112,6 +145,9 @@ button {
 
 /* section form */
 
+.download-form {
+    padding: 0 2em 0 2em;
+}
 
 .download-form > div {
     padding: 2em;
@@ -119,27 +155,18 @@ button {
 
 }
 
-
 .download-form form ul {
     margin-block-start: 0;
     margin-block-end: 0;
     padding-inline-start: 0;
+    list-style-type: none;
 
-}
-
-.download-form form li {
-    list-style: url('assets/icons/check-icon.svg');
-    display: block;
 }
 
 .download-form form li label {
     display: flex;
     flex-direction: column;
     font-family: "DM sans";
-}
-
-.download-form form li input {
-
 }
 
 .download-form div div {
@@ -166,3 +193,25 @@ button {
 
 
 
+
+@media (min-width: 800px )  {
+    main {
+        display: flex;
+        flex-direction: row;
+        align-items: center;  
+        flex-wrap: wrap;
+        gap: 2em;
+        width: 100%;
+    }
+
+    .heading-content {
+        background: var(--primairy-light-yellow);
+        padding: 3em;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        
+    }
+
+
+}
