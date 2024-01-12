@@ -9,10 +9,10 @@
 }
 
 :root {
-    --primairy-yellow: #F2A900;
-    --primairy-light-yellow:#FDF2D9;
-    --primairy-black: #000;
-    --primairy-white:#fff;
+    --primary-yellow: #F2A900;
+    --primary-light-yellow:#FDF2D9;
+    --primary-black: #000;
+    --primary-white:#fff;
 
     --gray-light: #C8C9C7;
     --gray-regular:#75787B;
@@ -75,15 +75,20 @@ button {
 }
 
 .underline {
-    border-bottom: solid .2em var(--primairy-yellow);
-    /* text-decoration: underline var(--primairy-yellow) solid .2em ; */
+    border-bottom: solid .2em var(--primary-yellow);
+    /* text-decoration: underline var(--primary-yellow) solid .2em ; */
 }
 
 /* section heading */
-.heading-content {
-    background-color: var(--primairy-light-yellow);
+.heading-content  {
+    background-color: var(--primary-light-yellow);
+    width: 100%;
+}
+
+
+.heading-content div {
     padding: 3em;
-    display: flex;
+    display: block;
     flex-direction: column;
     margin: 0 auto;
     width: 100%; /* Add this line */
@@ -96,7 +101,7 @@ button {
  padding: 1em;
  text-align: left;
  width: fit-content;
- background-color: var(--primairy-yellow);
+ background-color: var(--primary-yellow);
  cursor: pointer;
 }
 /* section heading */
@@ -174,14 +179,14 @@ button {
 }
 
 .download-form div div button {
-    background: var(--primairy-yellow);
+    background: var(--primary-yellow);
     width: 100%;
     height: auto;
 }
 
 .download-form div div .privacy{
-    background: var(--primairy-white);
-    color: var(--primairy-black);
+    background: var(--primary-white);
+    color: var(--primary-black);
     text-align: right;
     width: fit-content;
     font-size: .8em;
@@ -202,7 +207,7 @@ button {
     }
 
     .heading-content {
-        background: var(--primairy-light-yellow);
+        background: var(--primary-light-yellow);
         padding: 3em;
         display: flex;
         flex-direction: column;
