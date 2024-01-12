@@ -1,13 +1,13 @@
 @font-face {
     font-family: "DM Sans";
     src: 
-    url('/assets/fonts/DMSans/DMSans_24pt-Regular.ttf')format('truetype');
+    url('assets/fonts/DMSans/DMSans_24pt-Regular.ttf')format('truetype');
 }
 
 @font-face {
     font-family: "Crimson text";
     src: 
-    url('/assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
+    url('assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
 }
 
 :root {
@@ -128,7 +128,7 @@ button {
 
 .info-longread ul li {
     padding-left: 2em;
-    background: url("/assets/icons/check-icon.svg") no-repeat left center;
+    background: url("assets/icons/check-icon.svg") no-repeat left center;
     background-size: 1em;
     list-style-type: none;
 
