@@ -1,13 +1,11 @@
 @font-face {
     font-family: "DM Sans";
-    src: 
-    url('/assets/fonts/DMSans/DMSans_24pt-Regular.ttf')format('truetype');
+    src: url('../assets/fonts/DMSans/DMSans_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: "Crimson text";
-    src: 
-    url('/assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
+    src: url('../assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
 }
 
 :root {
