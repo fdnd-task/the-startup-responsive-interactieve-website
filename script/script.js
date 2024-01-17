@@ -10,7 +10,6 @@ buttonFinishForm.addEventListener("click", function(e) {
 
 
 DownloadFormComplete.addEventListener("animationend", function() {
-    // This function will be called when the animation is complete
     console.log("Animation complete!");
     DownloadFormComplete.classList.add("download-form-complete-show");
 })
