@@ -18,6 +18,9 @@
     --gray-regular:#75787B;
     --gray-dark:#53565A;
 
+    --font-Crimson-text: "Crimson text", arial;
+    --font-DM-Sans: "DM Sans", sans-serif;
+
 }
 
 
@@ -52,16 +55,16 @@ header img {
 
 h1, h2, h3, h4, h5, h6, button{ 
     font-weight: 700;
-    font-family: "DM Sans";
+    font-family: var(--font-DM-Sans);
 
 }
 
 p {
-    font-family: "Crimson text";
+    font-family: var(--font-Crimson-text);
 }
 
 ul {
-    font-family: "DM sans";
+    font-family: var(--font-DM-Sans);
 }
 
 button {
@@ -173,7 +176,7 @@ button:hover {
 }
 .download-form-input input{
     height: 3em;
-    font-family: "DM Sans";
+    font-family: var(--font-DM-Sans);
     padding-block: .5em;
     padding-inline: 1em;
 }
@@ -181,7 +184,7 @@ button:hover {
 .download-form-input label {
     display: flex;
     flex-direction: column;
-    font-family: "DM sans";
+    font-family: var(--font-DM-Sans);
     gap:0em;
 }
 
@@ -272,7 +275,7 @@ button:hover {
 .download-form-complete a:active,
 .download-form-complete a:visited {
     cursor: pointer;
-    font-family: "DM Sans";
+    font-family: var(--font-DM-Sans);
     text-decoration: none;
     background: var(--primary-black);
     padding: .3em;
