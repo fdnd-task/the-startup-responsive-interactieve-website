@@ -185,7 +185,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     font-family: var(--font-DM-Sans);
-    gap:0em;
+    margin: 1em 0 1em 0;
 }
 
 .download-form button {
