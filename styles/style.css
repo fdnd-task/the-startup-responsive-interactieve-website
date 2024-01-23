@@ -136,16 +136,11 @@ button:hover {
     display: flex;
     align-items: center;
     flex-direction: column;
-}
-
-.info-content > section {
     padding: 3em;
+
 }
 
 /* section info-longread */
-.info-longread {
-    padding: 0 2em 0 2em;
-}
 
 .info-longread > article {
     margin-bottom: 3em;
@@ -181,13 +176,14 @@ button:hover {
 .download-form {
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 
 .download-form > div {
     padding: 2em;
     background: var(--gray-light);
     height: 30em;
-    width: 20em;
+    width: inherit;
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -347,11 +343,6 @@ footer {
         display: block;
     }
 
-    .download-form div {
-        height: 30em;
-        width: 40em;
-    }
-
     .download-form .form-privacy  {
         text-align: right;
         width: fit-content;
@@ -365,6 +356,11 @@ footer {
         display: flex;
         align-items: center;
         flex-direction: row-reverse;
+        gap: 5em;
+    }
+
+    .info-longread {
+        width: 80ch;
     }
 
 }
