@@ -94,22 +94,28 @@ button:hover {
 
 .heading-content div {
     display: block;
-    padding: 3em;
+    padding: 5em 3em 5em 3em;
     margin: 0 auto;
     width: 100%; /* Add this line */
     max-width: fit-content;
 }
 
+.heading-content h1 {
+    font-size: 3em;
+    max-width: 20ch;
+}
 .heading-content button {
  text-align: left;
  background-color: var(--primary-yellow);
  cursor: pointer;
+ font-size: 1.2em;
 }
 
 .heading-content img {
     width: inherit;
     display: none;
-    width: 100%
+    width: 100%;
+    box-shadow: 0 0 1em var(--primary-black);
 }
 
 /* section heading */
