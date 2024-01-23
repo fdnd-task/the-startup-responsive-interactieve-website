@@ -311,6 +311,16 @@ footer {
         align-items: center;    
     }
 
+    .heading-content div:nth-child(1){
+        margin: 0;
+        margin-left: auto;
+    }
+
+    .heading-content div:nth-child(2) {
+        margin: 0;
+        margin-right: auto;
+    }
+
     .heading-content img {
         display: block;
     }
