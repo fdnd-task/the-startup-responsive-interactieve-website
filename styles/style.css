@@ -121,9 +121,15 @@ button:hover {
 /* section heading */
 
 
+.info-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 
-
-
+.info-content > section {
+    padding: 3em;
+}
 
 /* section info-longread */
 .info-longread {
@@ -178,7 +184,6 @@ button:hover {
 
 .download-form-input {
     z-index: 1;
-    position: absolute;
 }
 .download-form-input input{
     height: 3em;
@@ -344,3 +349,11 @@ footer {
 }
 
 
+@media (min-width: 1024px )  {
+    .info-content {
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+    }
+
+}
