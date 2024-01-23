@@ -103,12 +103,23 @@ button:hover {
 .heading-content h1 {
     font-size: 3em;
     max-width: 20ch;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.5em;
 }
+
+.heading-content h2 {
+    font-weight: 400;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.5em
+}
+
 .heading-content button {
  text-align: left;
  background-color: var(--primary-yellow);
  cursor: pointer;
  font-size: 1.2em;
+ margin-block-start: 1em;
+ margin-block-end: 1em
 }
 
 .heading-content img {
@@ -121,14 +132,15 @@ button:hover {
 /* section heading */
 
 
+.info-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 3em;
 
-
-
+}
 
 /* section info-longread */
-.info-longread {
-    padding: 0 2em 0 2em;
-}
 
 .info-longread > article {
     margin-bottom: 3em;
@@ -163,14 +175,15 @@ button:hover {
 
 .download-form {
     display: flex;
-    justify-content: center
+    justify-content: center;
+    width: 100%;
 }
 
 .download-form > div {
     padding: 2em;
     background: var(--gray-light);
     height: 30em;
-    width: 20em;
+    width: inherit;
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -178,7 +191,6 @@ button:hover {
 
 .download-form-input {
     z-index: 1;
-    position: absolute;
 }
 .download-form-input input{
     height: 3em;
@@ -331,11 +343,6 @@ footer {
         display: block;
     }
 
-    .download-form div {
-        height: 30em;
-        width: 40em;
-    }
-
     .download-form .form-privacy  {
         text-align: right;
         width: fit-content;
@@ -344,3 +351,16 @@ footer {
 }
 
 
+@media (min-width: 1024px )  {
+    .info-content {
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+        gap: 5em;
+    }
+
+    .info-longread {
+        width: 80ch;
+    }
+
+}
