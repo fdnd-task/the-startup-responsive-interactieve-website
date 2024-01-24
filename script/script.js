@@ -5,24 +5,24 @@ var DownloadFormComplete = document.querySelector(".download-form .download-form
 
 buttonFinishForm.addEventListener("click", function(e) {
     console.log("clicked!!");
-    DownloadFormComplete.classList.add("download-form-complete-in");
+    // DownloadFormComplete.classList.add("download-form-complete-in");
     DownloadFormComplete.classList.add("download-form-complete-add");
 });
 
 
-DownloadFormComplete.addEventListener("animationend", function() {
+DownloadFormComplete.addEventListener("transitionend", function() {
     console.log("Animation complete!");
     DownloadFormComplete.classList.add("download-form-complete-show");
 })
 
-var emailInput = document.getElementById("ename");
-var form = document.querySelector('form');
+// var emailInput = document.getElementById("ename");
+// var form = document.querySelector('form');
 
 
-emailInput.addEventListener("input", function(e){
-    if (FormData.checkValidity()) {
-        console.log()
-    }
+// emailInput.addEventListener("input", function(e){
+//     if (FormData.checkValidity()) {
+//         console.log()
+//     }
 
-})
+// })
 

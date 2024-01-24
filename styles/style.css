@@ -262,28 +262,31 @@ button:hover {
     flex-direction: column;
     align-items: flex-start;
 }
+
 .download-form .download-form-complete-add {
     display: inherit;
     opacity: 0;
     width: fit-content;
 
 }
-
-.download-form .download-form-complete-in {
+/* .download-form .download-form-complete-in {
     animation-name: fade-in;
     animation-duration: 1s;
     animation-delay: .3s;
-}
+} */
 
-@keyframes fade-in {
-    from {opacity: 0;}
-    to {opacity: 1;}    
+.download-form .download-form-complete-in {
+    transition-duration: 1s;
+    transition-delay: .3s;
+    opacity: 1;
 }
 
 .download-form .download-form-complete-show {
     display: inherit;
     opacity: 1;
     width: fit-content;
+    transition-duration: 1s;
+    transition-delay: .3s;
 
 }
 
