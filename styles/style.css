@@ -26,6 +26,7 @@
 
 body{
     margin: 0 auto;
+    
 }
 
 main {
@@ -88,7 +89,7 @@ button:hover {
 .heading-content  {
     background-color: var(--primary-light-yellow);
     padding-top: 3em;
-
+    width: 100%;
 }
 
 .heading-content div {
