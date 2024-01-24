@@ -267,25 +267,25 @@ button:hover {
     display: inherit;
     opacity: 0;
     width: fit-content;
-
 }
+
 /* .download-form .download-form-complete-in {
     animation-name: fade-in;
     animation-duration: 1s;
     animation-delay: .3s;
 } */
 
-.download-form .download-form-complete-in {
+/* .download-form .download-form-complete-in {
     transition-duration: 1s;
     transition-delay: .3s;
     opacity: 1;
-}
+} */
 
 .download-form .download-form-complete-show {
     display: inherit;
     opacity: 1;
     width: fit-content;
-    transition-duration: 1s;
+    transition-duration: .5s;
     transition-delay: .3s;
 
 }
