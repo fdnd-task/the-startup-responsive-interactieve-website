@@ -80,7 +80,7 @@ button:hover {
 
 .underline {
     border-bottom: solid .2em var(--primary-yellow);
-    /* text-decoration: underline var(--primary-yellow) solid .2em ; */
+    white-space: nowrap;
 }
 
 /* section heading */
