@@ -8,6 +8,10 @@
     src: url('../assets/fonts/CrimsonText/CrimsonText-Regular.ttf')format('truetype');
 }
 
+*{
+    scroll-behavior: smooth;
+}
+
 :root {
     --primary-yellow: #F2A900;
     --primary-light-yellow:#FDF2D9;
