@@ -74,10 +74,8 @@ button {
 }
 
 button:hover {
-    box-shadow: 0em 0em 1em var(--gray-dark);
     transition-duration: .3s;
     transition-delay: .1s;
-
 }
 
 .underline {
@@ -120,6 +118,12 @@ button:hover {
  font-size: 1.2em;
  margin-block-start: 1em;
  margin-block-end: 1em
+}
+
+.heading-content button:hover {
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    text-decoration: underline;
 }
 
 .heading-content img {
@@ -216,6 +220,13 @@ button:hover {
     width: 100%;
     height: auto;
     cursor: pointer;
+}
+
+
+.download-form button:hover {
+    color: var(--primary-white);
+    background-color: var(--primary-black);
+    text-decoration: underline;
 }
 
 .download-form .form-privacy {
