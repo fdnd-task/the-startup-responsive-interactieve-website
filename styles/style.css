@@ -293,10 +293,7 @@ button:hover {
 }
 
 
-.download-form-complete a,
-.download-form-complete a:link,
-.download-form-complete a:active,
-.download-form-complete a:visited {
+.download-form-complete button {
     cursor: pointer;
     font-family: var(--font-DM-Sans);
     text-decoration: none;
@@ -304,7 +301,7 @@ button:hover {
     padding: .3em;
     color: var(--primary-light-yellow);
     line-height: 3em;
-    font-size: .6em;
+    font-size: 1.2em;
 }
 
 
@@ -355,6 +352,15 @@ footer {
         width: fit-content;
         font-size: .8em;
     }
+
+    .download-form-complete button {
+    display: flex;
+    padding: .5em;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: fit-content;
+    }
+
 }
 
 
