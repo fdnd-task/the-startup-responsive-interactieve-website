@@ -315,6 +315,11 @@ button:hover {
     font-size: 1.2em;
 }
 
+.download-form-complete button:hover{
+    background: var(--primary-light-yellow);
+    color: var(--primary-black);
+}
+
 
 
 
@@ -328,8 +333,10 @@ button:hover {
 
 
 footer {
-    padding: 2em;
+    padding: 5em;
     background: var(--primary-black);
+    margin-block-start: 5em;
+
 }
 
 @media (min-width: 800px )  {
