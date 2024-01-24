@@ -321,6 +321,7 @@ button:hover {
 
 footer {
     padding: 2em;
+    background: var(--primary-black);
 }
 
 @media (min-width: 800px )  {
