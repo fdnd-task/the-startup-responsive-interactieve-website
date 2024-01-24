@@ -176,6 +176,7 @@ button:hover {
     display: flex;
     justify-content: center;
     width: 100%;
+    position: relative;
 }
 
 .download-form > div {
@@ -246,6 +247,8 @@ button:hover {
 .download-form .download-form-complete-add {
     display: inherit;
     opacity: 0;
+    width: fit-content;
+
 }
 
 .download-form .download-form-complete-in {
@@ -262,6 +265,8 @@ button:hover {
 .download-form .download-form-complete-show {
     display: inherit;
     opacity: 1;
+    width: fit-content;
+
 }
 
 /* fade-in animatie */
