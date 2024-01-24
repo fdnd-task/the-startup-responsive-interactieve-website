@@ -28,9 +28,10 @@
 }
 
 
-body{
+body {
     margin: 0 auto;
-    
+    width: auto; 
+    font-size: 16px;
 }
 
 main {
@@ -39,13 +40,14 @@ main {
     align-items: center;  
     flex-wrap: nowrap;
     gap: 5em
+    
 
 }
 
 header {
     background-color: #FFF;
     height: auto;
-    display: block;
+    display: contents;
     box-shadow: 0em 0em 1em #00000043;
     margin: 0 auto;
 }
@@ -91,7 +93,7 @@ button:hover {
 .heading-content  {
     background-color: var(--primary-light-yellow);
     padding-top: 3em;
-    width: 100%;
+    width: auto;
 }
 
 .heading-content div {
@@ -342,6 +344,21 @@ footer {
     margin-block-start: 5em;
 
 }
+
+  
+  @media (max-width: 350px) {
+    /* h1, h2, h3, h4, h5, h6, {
+      font-size: 14px;
+    } */
+  
+    body,
+    input,
+    button {
+      font-size: 10px; /* Adjust the percentage for smaller screens */
+    }
+  }
+  
+
 
 @media (min-width: 800px )  {
 
