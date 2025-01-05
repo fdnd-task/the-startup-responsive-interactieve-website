@@ -43,13 +43,22 @@ Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken e
 
 ## Briefing/debriefing
 
-Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit sprint 2.
+Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. 
+Volg hiervoor de instructies van de workshop briefing/debriefing uit sprint 2.
 
 ### Debriefing
-Na de briefing van de opdrachtgever werk eerst je eigen debriefing volledig uit. Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
+Na de briefing van de opdrachtgever werk je eerst je eigen debriefing volledig uit. 
+Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever. 
+Je wil hier zo snel mogelijk feedback op, dus doe dit asap.
 
-### Prototypen
-Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, een Sitemap maken, en een HiFi ontwerp in Figma maken. Daarna begin je eerst met het ontwerp in HTML te maken. Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue.
+Maak een issue aan met de titel 'Briefing/debriefing', voeg de documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
+Voeg de issue toe aan het projectboard met de roadmap en geef het een **tijdspad**.
+
+## Prototypen
+Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, een Sitemap maken, en een HiFi ontwerp in Figma maken. Daarna begin je eerst met het ontwerp in HTML te maken. 
+
+Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue.
+Voeg de issue toe aan het projectboard met een *tijdspad*. Wanneer moet dit af zijn?
 
 Volg hiervoor de instructies van de workshop Prototyping uit sprint 2.
 
@@ -60,6 +69,7 @@ Doe een **Interface inventory** op basis van het ontwerp dat je hebt gekregen, e
 Bekijk welke elementen geschreven kunnen worden met **custom properties**, denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen. Zet de website op in de huisstijl. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl. 
 
 Maak een issue aan met de titel 'One Column Layout', voeg uitleg over de huisstijl toe en koppel de commits van de CSS die je gaat coderen aan het issue.
+Voeg de issue toe aan het projectboard met een *tijdspad*.
 
 Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit sprint 4. Dit ga je individueel doen. 
 
