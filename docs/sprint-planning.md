@@ -4,59 +4,52 @@
 
 Project plannen en de briefing voorbereiden.
 
-<!--
-Je begint een project altijd met een Sprint Planning, dan weet je wat je de komende weken gaat doen en wat er van je wordt verwacht.
+<!-- Je begint een project altijd met een Sprint Planning, dan weet je wat je de komende weken gaat doen en wat er van je wordt verwacht. -->
 
 ## Aanpak
 
-Deze sprint ga je verder met de opdracht. Je gaat de feedback verwerken die je hebt gekregen tijdens de Sprint Review, en je gaat een interactie leren ontwerpen, bouwen, testen en presenteren aan de opdrachtgever. 
+Deze sprint krijg je een opdracht van een frontend bureau. In 3 weken ga je een responsive website met een interactie ontwerpen en maken. 
+
+Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden. Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen.
+
+Doe de sprint planning met de studenten die dezelfde opdrachtgever hebben. Jullie kunnen samen de briefing voorbereiden en een debriefing opsturen.
 
 
-## Planning maken
-
-Teken een schema op het whiteboard voor de komende 3 weken.
-Bekijk het programma van Sprint 5 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
-
-De Sprint Review in Sprint 5 is de laatste keer dit semester dat je de opdrachtgever spreekt. 
-Kan je al bedenken wat je dan wil laten zien? 
-Belangrijke momenten zijn ook de code/design reviews op vrijdag; wat wil je dan af hebben? 
-
-Neem ook de deeltaken "UI Events" en "JS Fundamentals" op het programma door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema.
-
-### Repo forken en klaarzetten
+## Repo klaarzetten met een projectboard
 
 Fork en Clone deze leertaak. 
-Zet je issues in je nieuwe repo aan en voeg de relevante issues uit de vorige sprint toe aan je nieuwe repo.
+Zet je issues in je nieuwe repo aan, 
 
-Elke sprint schrijf je nieuwe code, ook al blijven onderdelen van de website hetzelfde. 
-Zo leer je beter coderen en nettere code schrijven. 
+### Planning maken
 
+Teken een schema op het whiteboard voor de komende 3 weken.
+Bekijk het programma van Sprint 6 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
+
+Belangrijke momenten zijn de code/design reviews op vrijdag; wat moet je elke week ongeveer afhebben? 
 
 ### Projectboard
 
-Koppel het project board uit de vorige sprint aan de repository van Sprint 5, en voeg de planning van het schema toe.
+ Maak een nieuw project board aan en koppel het aan jouw repository van sprint 6, en voeg de planning van het schema toe.
 
-Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Naast _assignees_, waar we vorige sprint mee begonnen zijn, kun je taken en issues ook een _tijdspad_ geven.
+Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Zo kun je taken en issues ook een _tijdspad_ geven.
 
 ![](ghprojects-example-roadmap.webp)
 *De Roadmap-view van Github projects geeft een overzicht van taken en tijdsplanning.*
 
-#### Bronnen
+### Bronnen
 - [Changing the layout of a view - Github docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
 - [About date fields](https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-date-fields)
 
--->
 
-<!-- 
-Voor deze opdracht kies je een User Story waarin een gebruiker iets moet doen, zoals het toevoegen van informatie aan een agenda of stap voor stap door een vragenlijst klikken, een chat-formulier of bijvoorbeeld een filter systeem.  
+## Briefing/debriefing
 
-> Waar kan de klant het meeste feedback op hebben? Waar zijn de grootste risico's en zal er waarschijnlijk het meeste werk in kruipen? - Emiel Van Betsbrugge, Active Theory
+Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit sprint 2.
 
-Sprint plannen aan de hand van het programma:
-JS fundamentals
-Deeltaak UI events
-I Love Web
-CSS challenges en JS challenges
-Code design reviews, wat vrijdag afhebben?
+Na de briefing van de opdrachtgever werk eerst je eigen debriefing volledig uit. Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
 
--->
+Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, het (responsive) design ontwerpen in Figma en beginnen met de one-column layout ...
+
+Bronnen
+- [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
+
+
