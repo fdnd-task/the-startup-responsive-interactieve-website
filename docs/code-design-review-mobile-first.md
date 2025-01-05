@@ -1,8 +1,8 @@
 # The Startup - Responsive Interactive Website
 
-## Code/Design review - Mobile First
+## Code/Design review Mobile First
 
-Test het design en de code van de eerste versie van het responsive design dat je hebt ontworpen en gemaakt
+Test het design en de code van de eerste versie van de responsive website dat je hebt ontworpen en gemaakt
 
 <!-- One column  Layout -->
 

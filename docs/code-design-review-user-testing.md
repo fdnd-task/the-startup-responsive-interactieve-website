@@ -2,7 +2,7 @@
 
 ## Code/Design User Testing
 
-Verzamel feedback op jouw responsive website met interactie door een User Test te doen
+Verzamel feedback op jouw responsive website en interactie door een User Test te doen.
 
 <!--
 User test opzxetten en uitvoeren(sprint 5)
