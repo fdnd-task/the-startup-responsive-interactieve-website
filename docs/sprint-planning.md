@@ -6,11 +6,11 @@ Project plannen en de briefing voorbereiden.
 
 <!-- Je begint een project altijd met een Sprint Planning, dan weet je wat je de komende weken gaat doen en wat er van je wordt verwacht. -->
 
-## Aanpak
+### Aanpak
 
 Deze sprint krijg je een opdracht van een frontend bureau. In 3 weken ga je een responsive website met een interactie ontwerpen en maken. 
 
-Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden. Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen.
+Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden. Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen. Daarna kan je beginnen met prototypen.
 
 Doe de sprint planning met de studenten die dezelfde opdrachtgever hebben. Jullie kunnen samen de briefing voorbereiden en een debriefing opsturen.
 
@@ -45,11 +45,26 @@ Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken e
 
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit sprint 2.
 
+### Debriefing
 Na de briefing van de opdrachtgever werk eerst je eigen debriefing volledig uit. Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
 
-Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, het (responsive) design ontwerpen in Figma en beginnen met de one-column layout ...
+### Prototypen
+Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, een Sitemap maken, en een HiFi ontwerp in Figma maken. Daarna begin je eerst met het ontwerp in HTML te maken. Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue.
 
-Bronnen
-- [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
+Volg hiervoor de instructies van de workshop Prototyping uit sprint 2.
 
+### One Column Layout
+Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. Deze stap hoort bij de Mobile First aanpak. Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen. 
 
+Doe een **Interface inventory** op basis van het ontwerp dat je hebt gekregen, en maak een **styleguide**. 
+Bekijk welke elementen geschreven kunnen worden met **custom properties**, denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen. Zet de website op in de huisstijl. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl. 
+
+Maak een issue aan met de titel 'One Column Layout', voeg uitleg over de huisstijl toe en koppel de commits van de CSS die je gaat coderen aan het issue.
+
+Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit sprint 4. Dit ga je individueel doen. 
+
+### Bronnen
+1. [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
+2. [Workshop Prototyping](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md)
+3. [Workshop Styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md)
+3. [Workshop Stylesheet](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/stylesheet.md)
