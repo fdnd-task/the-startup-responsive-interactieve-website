@@ -21,7 +21,7 @@ Tip: met een `container query` kan je elementen stijlen op basis van de grootte 
 
 #### Bronnen
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
-* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries
+* https://web.dev/blog/cq-stable 
 
 <!--
 OUTLINE 
