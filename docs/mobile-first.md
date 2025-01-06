@@ -2,11 +2,17 @@
 
 ## Mobile First
 
-Mobile First als design & development strategie.
-
-Over mobile first bouwen en breakpoints bepalen van jouw responsive design
+Mobile First als design & development strategie. Over mobile first bouwen en breakpoints bepalen van jouw responsive design
 
 > Start with the small screen first, then expand until it looks like shit. Time for a breakpoint! - Stephen Hay
+
+
+Wat is Mobile first?
+Begin met de One column layout (en de huisstijl)
+Breakpoints bepalen
+Medai query toepassen met min-width
+    Media feautures (zoals workshop 2e jaars)
+    Media queries nesten, zoals code conventions
 
 
 
