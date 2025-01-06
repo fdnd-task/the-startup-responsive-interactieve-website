@@ -20,7 +20,8 @@ Je eerste breakpoint zet je op het moment dat bij een breder wordende viewport d
 Tip: met een `container query` kan je elementen stijlen op basis van de grootte van de omliggende container. Hiermee bekijk je responsive disgn dus meer op component niveau. 
 
 #### Bronnen
-* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries 
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries
 
 <!--
 OUTLINE 
