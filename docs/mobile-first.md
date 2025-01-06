@@ -13,9 +13,11 @@ Begin met de One Column Layout. Met andere woorden; zorg voor goed gestructureer
 
 ### Breakpoints
 
-Breakpoints kan je in CSS bijvoorbeeld maken met ```media queries```.  Met ```media queries``` kan je aan de hand van eigenschappen van een device keuzes maken over hoe je elementen stijlt. Bijvoorbeeld over hoe breed de viewport van het gebruikte device is. 
+Breakpoints kan je in CSS bijvoorbeeld maken met ```media queries```.  Met ```media queries``` kan je aan de hand van eigenschappen van een device keuzes maken over hoe je elementen stijlt. Bijvoorbeeld over hoe breed de viewport van het gebruikte device is.
 
 Je eerste breakpoint zet je op het moment dat bij een breder wordende viewport de One Column Layout er niet meer goed uitziet. Een regel hiervoor is dat tekst niet meer dan 10 à 12 woorden op één regel mag bevatten om de tekst goed leesbaarheid te houden. Kijk met behulp van de devtools waar voor jou website het eerste breakpoint ligt. Voeg door middel van een `media query` met `min-width` een breakpoint toe. Op deze manier voeg je nog twee breakpoints toe voor nog bredere viewports.
+
+Tip: met een `container query` kan je elementen stijlen op basis van de grootte van de omliggende container. Hiermee bekijk je responsive disgn dus meer op component niveau. 
 
 #### Bronnen
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries 
