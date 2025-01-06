@@ -12,7 +12,7 @@ Deze sprint krijg je een opdracht van een frontend bureau. In 3 weken ga je een 
 
 Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden. Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen. Daarna kan je beginnen met prototypen.
 
-Doe de sprint planning met de studenten die dezelfde opdrachtgever hebben. Jullie kunnen samen de briefing voorbereiden en een debriefing opsturen.
+Doe de Sprint planning met de studenten die dezelfde opdrachtgever hebben. Jullie kunnen samen de briefing voorbereiden en een debriefing opsturen.
 
 
 ## Repo klaarzetten met een projectboard
@@ -29,7 +29,7 @@ Belangrijke momenten zijn de code/design reviews op vrijdag; wat moet je elke we
 
 ### Projectboard
 
- Maak een nieuw project board aan en koppel het aan jouw repository van sprint 6, en voeg de planning van het schema toe.
+Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 6, en voeg de planning van het schema toe.
 
 Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Zo kun je taken en issues ook een _tijdspad_ geven.
 
@@ -44,25 +44,28 @@ Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken e
 ## Briefing/debriefing
 
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. 
-Volg hiervoor de instructies van de workshop briefing/debriefing uit sprint 2.
+Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
 
 ### Debriefing
+
 Na de briefing van de opdrachtgever werk je eerst je eigen debriefing volledig uit. 
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever. 
 Je wil hier zo snel mogelijk feedback op, dus doe dit asap.
 
 Maak een issue aan met de titel 'Briefing/debriefing', voeg de documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
-Voeg de issue toe aan het projectboard met de roadmap en geef het een **tijdspad**.
+Voeg het issue toe aan het project board met de roadmap en geef het een *tijdspad*.
 
 ## Prototypen
-Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met ideeën schetsen, een Sitemap maken, en een HiFi ontwerp in Figma maken. Daarna begin je eerst met het ontwerp in HTML te maken. 
+
+Nu je weet wat (ongeveer) de bedoeling is, kan je beginnen met ideeën schetsen, een Sitemap maken, en een HiFi ontwerp in Figma maken. Daarna begin je eerst met het ontwerp in HTML te maken. 
 
 Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue.
-Voeg de issue toe aan het projectboard met een *tijdspad*. Wanneer moet dit af zijn?
+Voeg het issue toe aan het project board met een *tijdspad*. Wanneer moet dit af zijn?
 
-Volg hiervoor de instructies van de workshop Prototyping uit sprint 2.
+Volg hiervoor de instructies van de workshop Prototyping uit Sprint 2.
 
 ### One Column Layout
+
 Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. Deze stap hoort bij de Mobile First aanpak. Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen. 
 
 Doe een **Interface inventory** op basis van het ontwerp dat je hebt gekregen, en maak een **styleguide**. 
@@ -71,7 +74,7 @@ Bekijk welke elementen geschreven kunnen worden met **custom properties**, denk 
 Maak een issue aan met de titel 'One Column Layout', voeg uitleg over de huisstijl toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het projectboard met een *tijdspad*.
 
-Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit sprint 4. Dit ga je individueel doen. 
+Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit Sprint 4. Dit ga je individueel doen. 
 
 ### Bronnen
 1. [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
