@@ -7,38 +7,32 @@ Mobile First als design & development strategie. Over mobile first bouwen en bre
 > Start with the small screen first, then expand until it looks like shit. Time for a breakpoint! - Stephen Hay
 
 
-Wat is Mobile first?
-Begin met de One column layout (en de huisstijl)
-Breakpoints bepalen
-Medai query toepassen met min-width
-    Media feautures (zoals workshop 2e jaars)
-    Media queries nesten, zoals code conventions
-
-
-
 <!--
+OUTLINE 
 
 - Mobile First als design strategie
+    Wat is Mobile first?
 - One Column layout
-- Gebruik min-width in je media query
-(welke features heb je allemaal in een media query heb je allemaal? Vandaag met '`width')
+    Begin met de One column layout (en de huisstijl)
+- Breakpoints bepalen
+- Media query toepassen met min-width
+    (welke features heb je allemaal in een media query heb je allemaal? Vandaag met '`width')
+    (Media queries nesten, zoals code conventions)
 
 
 *Code/Design review - Mobile First*
-
 Vrijdag de toegepaste huisstijl testen in de one-column layout. 
 En de min-width in de media-query voor de layout
 
 -->
 
+
 <!--
 
 # Your Tribe - Squad page
-
 ## Responsive Design
 
 _In de workshop S01W2-03-responsive-design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken._
-
 
 Heb web is niet een statische plek qua verhoudingen, elk device en elk scherm kan weer een eigen verhouding hebben. Het is dus belangrijk dat wij als frontenders zorgen dat de informatie die overgebracht moet worden op al deze schermen/verhoudingen goed beschikbaar is. 
 
