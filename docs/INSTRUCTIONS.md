@@ -13,7 +13,7 @@ In het eerste semester van de opleiding FDND heb je veel geleerd over layout, re
 
 ## Werkwijze
 
-Op basis van een bestaand idee, concept of ontwerp ga je voor een opdrachtgever een responsive website met een interactie ontwerpen en maken.
+Op basis van een bestaand idee, concept of ontwerp ga je in 3 weken voor een opdrachtgever een responsive website met een interactie ontwerpen en maken.
 
 ### Planning
 
@@ -28,7 +28,7 @@ Op basis van een bestaand idee, concept of ontwerp ga je voor een opdrachtgever 
 Deze sprint worden weer verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md)
-- [Mobile first](mobile-first)
+- [Mobile first](mobile-first.md)
 - [Code/Design review Mobile First](code-design-review-mobile-first.md)
 - [Interaction Design](interaction-design.md)
 - [Programming User Interaction](programming-user-interaction.md)
