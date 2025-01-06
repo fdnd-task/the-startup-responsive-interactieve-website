@@ -8,7 +8,7 @@ Mobile First als design & development strategie. Over mobile first bouwen en bre
 
 ## Aanpak
 
-Begin met de One Column Layout. Met andere woorden; zorg voor goed gestructureerde, semantische HTML. Als de HTML klaar staan de (block-level) elementen netjes onder elkaar. Over het algemeen zullen de meeste elementen in One Column Layout onder elkaar staan (met uizondering van bijvoorbeeld navigatie items). Stijl alles nu volgens de huisstijl. Zet elementen die in de One Column Layout op de juiste plek. Nu is de One Column Layout klaar.
+Begin met de One Column Layout. Met andere woorden; zorg voor goed gestructureerde, semantische HTML. Als de HTML klaar is staan de (block-level) elementen netjes onder elkaar. Over het algemeen zullen de meeste elementen in One Column Layout onder elkaar staan (met uizondering van bijvoorbeeld navigatie items). Stijl alles nu volgens de huisstijl. Zet elementen die in de One Column Layout op de juiste plek. Nu is de One Column Layout klaar.
 
 Je eerste breakpoint zet je op het moment dat bij een breder wordende viewport de One Column Layout er niet meer goed uitziet. Een regel hiervoor is dat tekst niet meer dan 10 à 12 woorden op één regel mag bevatten voor goede leesbaarheid. Kijk met behulp van de devtools waar voor jou website het eerste breakpoint ligt. Voeg door middel van een `media query` met `min-width` een breakpoint toe. Op deze manier voeg je nog twee breakpoints toe voor nog bredere viewports.
 
