@@ -2,26 +2,7 @@
 
 ## Mobile First
 
-Mobile First als design & development strategie. Over mobile first bouwen en breakpoints bepalen van jouw responsive design
-
-> Start with the small screen first, then expand until it looks like shit. Time for a breakpoint! - Stephen Hay
-
-## Aanpak
-
-### One Column Layout
-Begin met de One Column Layout. Met andere woorden; zorg voor goed gestructureerde, semantische HTML. Als de HTML klaar is staan de (block-level) elementen netjes onder elkaar. Over het algemeen zullen de meeste elementen in One Column Layout onder elkaar staan (met uizondering van bijvoorbeeld navigatie items). Stijl alles nu volgens de huisstijl. Zet elementen die in de One Column Layout naast elkaar staan met behulp van op de juiste plek. Gebruik hiervoor bijvoorbeeld ```flexbox```. Nu is de One Column Layout klaar.
-
-### Breakpoints
-
-Breakpoints kan je in CSS bijvoorbeeld maken met ```media queries```.  Met ```media queries``` kan je aan de hand van eigenschappen van een device keuzes maken over hoe je elementen stijlt. Bijvoorbeeld over hoe breed de viewport van het gebruikte device is.
-
-Je eerste breakpoint zet je op het moment dat bij een breder wordende viewport de One Column Layout er niet meer goed uitziet. Een regel hiervoor is dat tekst niet meer dan 10 à 12 woorden op één regel mag bevatten om de tekst goed leesbaarheid te houden. Kijk met behulp van de devtools waar voor jou website het eerste breakpoint ligt. Voeg door middel van een `media query` met `min-width` een breakpoint toe. Op deze manier voeg je nog twee breakpoints toe voor nog bredere viewports.
-
-Tip: met een `container query` kan je elementen stijlen op basis van de grootte van de omliggende container. Hiermee bekijk je responsive disgn dus meer op component niveau. 
-
-#### Bronnen
-* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
-* https://web.dev/blog/cq-stable 
+Over Mobile First bouwen en breakpoints bepalen van jouw responsive design.
 
 <!--
 OUTLINE 
@@ -35,7 +16,6 @@ OUTLINE
     (welke features heb je allemaal in een media query heb je allemaal? Vandaag met '`width')
     (Media queries nesten, zoals code conventions)
 
-
 *Code/Design review - Mobile First*
 Vrijdag de toegepaste huisstijl testen in de one-column layout. 
 En de min-width in de media-query voor de layout
@@ -43,100 +23,84 @@ En de min-width in de media-query voor de layout
 -->
 
 
-<!--
+## Aanpak
 
-# Your Tribe - Squad page
-## Responsive Design
+Mobile First is niet alleen hoe je met code een responsive website maakt, het is ook een manier van denken. Mobile First is een design strategie. Als je ontwerp voor een klein scherm (Small) dan moet je goed nadenken over welke content belangrijk is en in beeld moet komen te staan. 
+Dat is bijvoorbeeld voor een Iphone SE, met een _viewport_ van 320px × 568px, best een uitdaging!
 
-_In de workshop S01W2-03-responsive-design wordt behandeld wat Responsive Design is, waarom het belangrijk is en hoe je met een Media query in CSS de layout voor verschillende schermen kan maken._
+![](mobile-first-design-stategie.png)
+*Op de website van Transavia staat de belangrijkste informatie altijd goed in beeld, ook voor hele kleine schermen.*
 
-Heb web is niet een statische plek qua verhoudingen, elk device en elk scherm kan weer een eigen verhouding hebben. Het is dus belangrijk dat wij als frontenders zorgen dat de informatie die overgebracht moet worden op al deze schermen/verhoudingen goed beschikbaar is. 
+Je gaat de opdracht die je hebt gekregen Mobile First bouwen. Je begint met een _HTML prototype_, daarna maak je met CSS een _One Column Layout_, daarna bepaald je de _breakpoints_ van jouw responsive ontwerp en maak je met behulp van een media-query de layout voor bredere schermen.
 
-Met CSS kun je regels schrijven waarmee de browser de website anders toont op verschillende verhoudingen. Dit kan zowel in de breedte als de hoogte zijn, of bijv. portrait en landscape mode. Dit doen we met 'media queries': 
+## HTML prototype
+
+Begin aan de hand van je schetsen met het schrijven van de HTML. Zorg voor een goed fundament, begin met alle content en een goede structuur, waarmee je een werkend prototype bouwt. [Valideer je HTML](https://validator.w3.org/) regelmatig om fouten te voorkomen.
+
+Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue.
+Als je het HTML prototype af hebt vraag dan om een code-review, tag hiervoor een student of docent in de comment van je issue. Als de feedback goed is sluit je het het issue. 
+
+## One Column Layout
+
+Als de HTML klaar is staan de (block-level) elementen netjes onder elkaar. Over het algemeen zullen de meeste elementen in One Column Layout ook onder elkaar staan (met uizondering van bijvoorbeeld navigatie items). 
+Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen. 
+
+Doe een **Interface inventory** op basis van het ontwerp dat je hebt gekregen, en maak een **styleguide**. 
+Bekijk welke elementen geschreven kunnen worden met **custom properties**, denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen. 
+
+Maak een issue aan met de titel 'One Column Layout', voeg uitleg over de huisstijl toe en koppel de commits van de CSS die je gaat coderen aan het issue. Sluit het issue als je de huisstijl netjes hebt toegepast,
+
+
+## Breakpoints
+
+Een breakpoint is een schermbreedte waar de layout verandert zodat de leesbaarheid en bruikbaarheid van een website goed blijven. 
+Bijvoorbeeld als de tekstregels langer worden dan 10-12 woorden moet je de layout aanpassen. Of als plaatjes zo groot worden dat ze andere content uit beeld duwen, dan kan je misschien beter 2 of meer plaatjes naast elkaar tonen...
+
+Stepagn Hay schrijft hierover: 
+
+> Start with the small screen first, then expand until it looks like shit. Time for a breakpoint!
+
+### Responsive Design in Figma
+
+Maak in Figma verschillende layouts, voor een Small screen heb je de One Column layout, voor een Medium screen kan je 2 kolommen tonen, voor een Large scherm en XL scherm is er veel meer ruimte beschikbaar en kan je de layout en witruimte anders ontwerpen. Voor elke schermbreedte kan je meerdere kolommen tonen en de layout veranderen. 
+
+![](responsive-design-layouts.png)
+*De website van Smashing Magazine heeft 4 layouts, voor Small, Medium, Large en XL schermen.*
+
+### Media queries
+
+Als je de verschillende layouts in Figma hebt gemaakt kan je met CSS de breakpoints toevoegen. 
+Breakpoints maak je met `media queries`. In de `media query` schrijf je code voor de nieuwe layout.
+
+Je eerste breakpoint zet je op het moment dat de One Column Layout er niet meer goed uitziet. Een regel hiervoor is dat tekst niet meer dan 10 à 12 woorden op één regel mag bevatten om de tekst goed leesbaarheid te houden. Voeg door middel van een `media query` met `min-width` een breakpoint toe. 
+
+Dat ziet er dan bijvoorbeeld zo uit: 
 
 ```css
-    body {
-        background: blue;
+body {
+    line-height: 1.5;
+    @media (min-width: 30em) {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
-
-    @media (min-width: 600px) {
-        body {
-            background: red;
-        }
+}
+nav {
+    display: flex;
+    @media (min-width: 26em) {
+        justify-content: space-between;
     }
+}
+footer {
+    text-align: right;
+    @media (min-width: 32em) {
+        text-align: center;
+    }
+}
 ```
 
-### Aanpak
-
-Schets en maak een responsive design voor je squadpage.
-
-#### Opdracht 1
-
-1. Zoek de pixelwaardes van elke telefoon aan de tafel op
-2. Schrijf deze pixelwaardes op het whiteboard achter ieders naam
-3. Vraag elkaar op welke devices je op internet zit, hoeveel procent op welk device?
-4. Schrijf dit op het whiteboard achter ieders naam
-5. Ga naar [ Gstat counter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide) en vergelijk de antwoorden met de statistieken
-6. Extra: verander van werelddeel op Gstat counter en bekijk de verschillen
-
-#### Opdracht 2
-
-1. Ga naar je favoriete nieuwssite, ieder aan de tafel een ander (zoals nos.nl, ad.nl, parool.nl, cnn.com)
-2. Zoek uit op welke pixelwaardes de site een breakpoint inzet om de layout te veranderen
-3. Schrijf deze pixelwaardes op het bord
-4. Wat valt je op, bespreek dit met je tafel
-
-#### Opdracht 3
-
-1. Schets de squadpage voor een mobiel scherm (S) en een laptop scherm (L)
-2. Maak een breakdownschets met HTML en pseudo CSS code
-3. Bepaal het breakpoint, bij welke schermbreedte krijg je een andere layout te zien? Maak aantekeningen op je breakdown schets
-4. Upload je breakdown schets in een issue en leg deze kort uit
-5. Leg je breakdown schets uit aan iemand van je tafel en vraag om feedback, laat de persoon dit bij je issue schrijven
-6. Bouw je squad page met één, of meerdere, media query
-7. Test regelmatig in je browser of je media query goed werkt. Test het ook op je mobiel. 
-
-<img width="1054" alt="Breakdownschets met breakpoint" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
-<small><i>Breakdownschets met breakpoint</i></small>
-
-### Devtools & Responsive
-
-De devtools heeft ook handige functionaliteiten om je website te debuggen op verschillende verhoudingen. 
-
-1. Open de developer tools op een website, door een element te inspecteren met je rechtermuisknop.
-2. Klik op de "Device toolbar" knop
-
-<img width="1055" alt="Device mode toggle" src="https://github.com/user-attachments/assets/7be7048b-b0bc-4d1d-a98d-c490755d6463">
-
-Dit is een screenshot van Chrome, in de andere browsers zit het knopje misschien op een andere plek en in Safari kun je het via de menu bar "develop" -> "enter responsive design mode" vinden.
-
-3. Afhankelijk van je laatste instellingen zie je nu de site in een bepaalde verhouding, in dit geval alsof het een iphone 12 pro is.
-
-<img width="1622" alt="Device mode" src="https://github.com/user-attachments/assets/5039dd6b-891f-41e2-a186-bb6569edf620">
-
-4. Je kunt de verhoudingen aanpassen door de tools te gebruiken in deze device mode. Je kunt een bestaande verhouding kiezen of zelf de afmetingen bepalen. 
-<img width="545" alt="Device mode toolbar" src="https://github.com/user-attachments/assets/c689544b-5aa4-4ce6-bc0f-d52f209f6eba">
-
-Chrome probeert dan je de volledige verhouding in beeld te geven, dit kan er soms voor zorgen dat het uitgezoomd is (irritant!), gelukkig kun je dit ook instellen door het percentage op 100% te zetten. Over throttling gaan we het een andere keer hebben.
-
-Naast dat je de devtools kunt gebruiken kun je natuurlijk ook met je browser heen en weer slepen om te kijken wat er gebeurt op verschillende verhoudingen. Als je de devtools open hebt staan, kun je als je heen en weer sleept ook de pixel waardes zien in de rechterbovenhoek van je website, handig als je wilt bepalen wanneer je een breakpoint wilt introduceren. 
+Maak een issue aan met de titel 'Mobile First', voeg screenshots van de verschillende layouts toe met uitleg. Koppel de commits van de CSS die je gaat coderen aan het issue.
 
 
-#### Bronnen 
-
-- [Beginner guide to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
-- [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
-- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-- [Gstat counter mobile/desktop/tablet](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide)
-- [Whatsmyviewport](https://whatismyviewport.com/)
-- Een browser die _Responsive_ makkelijker maakt? 🚀 Gebruik [Polypane](https://polypane.app/) (gratis voor studenten)
-
-
-
-**Meer lezen over Responsive**
-- [How Much Has The Web Really Changed?](https://www.smashingmagazine.com/2013/05/new-defaults-web-design/)
-- [The New Multi-screen World](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/the-new-multi-screen-world-study/)
-- [The ideal viewport doesn’t exist](https://viewports.fyi)
-
-
--->
+### Bronnen
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+* https://css-tricks.com/a-complete-guide-to-css-media-queries/
