@@ -25,7 +25,7 @@ En de min-width in de media-query voor de layout
 
 ## Aanpak
 
-Mobile First is niet alleen hoe je met code een responsive website maakt, het is ook een manier van denken. Mobile First is een design strategie. Als je ontwerpt voor een klein scherm (Small, dan moet je goed nadenken over welke content belangrijk is en in beeld moet komen te staan. 
+Mobile First is niet alleen hoe je met code een responsive website maakt, het is ook een manier van denken. Mobile First is een design strategie. Als je ontwerpt voor een klein scherm, dan moet je goed nadenken over welke content belangrijk is en in beeld moet komen te staan. 
 Dat is bijvoorbeeld voor een iPhone SE, met een _viewport_ van 320px × 568px, best een uitdaging!
 
 ![](mobile-first-design-stategie.png)
