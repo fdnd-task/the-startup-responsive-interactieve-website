@@ -73,7 +73,7 @@ Volg hiervoor de instructies van de workshop Prototyping uit Sprint 2.
 Maak een issue aan met de titel 'One Column Layout', voeg een interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het projectboard met een *tijdspad*.
 
-Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.  
+Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
 
 Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen. 
 
