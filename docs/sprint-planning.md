@@ -70,18 +70,13 @@ Voeg het issue toe aan het project board met een *tijdspad*. Wanneer moet dit af
 Volg hiervoor de instructies van de workshop Prototyping uit Sprint 2.
 
 ### One Column Layout
-
-Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. 
-Deze stap hoort bij de **Mobile First** aanpak. Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen. 
-
-Doe een **Interface inventory** op basis van het ontwerp dat je hebt gekregen, en maak een **styleguide**. 
-Bekijk welke elementen geschreven kunnen worden met **custom properties**, denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen. 
-Zet de website op in de huisstijl. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl. 
-
-Maak een issue aan met de titel 'One Column Layout', voeg uitleg over de huisstijl toe en koppel de commits van de CSS die je gaat coderen aan het issue.
+Maak een issue aan met de titel 'One Column Layout', voeg een interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het projectboard met een *tijdspad*.
 
-Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit Sprint 4. Dit ga je individueel doen. 
+Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. 
+Deze stap hoort bij de **Mobile First** aanpak. Zorg er eerst voor dat je de huisstijl toepast in CSS voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.  
+
+Volg hiervoor de instructies van de workshop Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen. 
 
 ### Bronnen
 1. [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
