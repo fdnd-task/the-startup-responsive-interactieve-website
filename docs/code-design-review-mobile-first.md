@@ -2,11 +2,11 @@
 
 ## Code/Design review Mobile First
 
-Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website mobile first te bouwen. Als het goed is en je zit op schema heb je een HTML prototype gemaakt, heb je de huisstijl geanalyseerd en toegepast op een one collumn layout, en ben je begonnen met de responsive layout bouwen. 
+Deze week heb je een nieuwe opdracht gekregen en heb je geleerd om een website Mobile First te bouwen. Als het goed is en je zit op schema heb je nu een HTML prototype gemaakt, heb je de huisstijl geanalyseerd en toegepast op een one collumn layout, en ben je begonnen met de responsive layout bouwen. 
 
 ## Aanpak
 
-Vandaag ga je eerst met een groep een huisstijl review doen. Daarna doe je in duo's een review op de mobile first code. Tot slot ga je aan de hand van een video 'advanced responsive tips & tricks' leren en toepassen. Als je klaar bent kan je meteen beginnen met het verwerken van de issues die je hebt gekregen. 
+Vandaag ga je eerst met een groep een huisstijl review doen. Daarna doe je in duo's een review op de Mobile First code. Tot slot ga je aan de hand van een video geavanceerde tips & tricks voor responsive design leren en toepassen. Als je klaar bent kan je meteen beginnen met het verwerken van de issues die je hebt gekregen.
 
 
 ## Huisstijl review
@@ -28,7 +28,7 @@ Jullie gaan met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk
 | **Milledoni** | Funda |
 | **Informaat** | Drukwerkdeal |
 | **JUST** | ABN AMRO |
-| **DEPT0** | Rideout |
+| **DEPT** | Rideout |
 
 2. Bekijk om de beurt de repo van de studenten die je gaat reviewen. Lees met elkaar het issue met uitleg over de huisstijl (die heet waarschijnlijk 'One Column Layout'). 
    - **Feedback op uitleg**: Controleer of de issue voldoende informatie bevat om te begrijpen hoe de stylesheet werkt. Is het duidelijk hoe je de code kunt implementeren? Schrijf je feedback in het issue.
@@ -49,9 +49,9 @@ Jullie gaan met studenten die dezelfde opdrachtgever hebben gezamenlijk het werk
 
 ## Mobile First review
 
-Review in duo's het werk van 2 andere studenten uit de andere squad. Je krijgt dus 2 reviews vandaag! 
+Review in duo's het werk van 2 andere studenten uit de andere squad. Iedereen krijgt vandaag 2 reviews!
 
-Schrijf eerst jouw naam op het whiteboard met de url van jouw repo + de squad. 
+Schrijf eerst jouw naam op het whiteboard met de url van jouw repo + jouw squad. 
 Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit de andere squad.
 
 ### Prototype in HTML
@@ -74,20 +74,19 @@ Schrijf daarna jullie namen bij de naam van de student die jullie reviewen uit d
 
    - Bekijk de HTML waarin afbeeldingen zijn opgenomen. Controleer of het juiste gebruik van het alt-attribuut wordt toegepast bij de `<img>` tags. Beantwoord daarvoor de volgende vragen: Heeft elke afbeelding een alt-attribuut? Is de tekst in het alt-attribuut beschrijvend en passend bij de context van de afbeelding? Zou je een andere tekst voor het alt-attribuut kiezen? Waarom wel of niet? Maak zo nodig hier een issue voor aan.
 
-
 ### Breakpoints
 
 1. Bekijk de website in een browser. Maak de browser eerst heel smal en dan steeds breder. Analyseer waar de breakpoints zitten. Bepaal of de leesbaarheid en bruikbaarheid van de website goed blijven. Schrijf je gedachten in het “Mobile First” issue als reactie.
-2. Bekijk daarna de `media queries`, kijk naar de aanroep, is de `media query` genest? Check de media features die zijn gebruikt en de conditie waaraan voldaan moet worden. 
+2. Bekijk daarna de `media queries`, kijk naar de aanroep, is de `media query` genest? Check de media features die zijn gebruikt en de conditie waaraan voldaan moet worden. Valt je iets op? Schrijf dan een issue. 
 
 
-## CSS Tips & Tricks for better Responsive Web Design 
+## 5 CSS Tips & Tricks for better Responsive Web Design 
 
 Behalve media queries zijn er in CSS geavanceerde technieken om ervoor te zorgen dat je website het goed doet in verschillende scherm groottes. 
 
 Bekijk de video '5 CSS Tips & Tricks for better Responsive Web Design'. In de video worden een aantal geavanceerde technieken uitgelegd: Relative padding, Responsive font-sizes, Responsive images, Dynamic viewport height en het HTML inter attribuur.
 
-Probeer de tips & tricks uit op je eigen project. Leg met comments in de CSS uit hoe de technieken werken. Kopieer de code met comments naar je Learning log zodat dit je dit later weer kan teruglezen...
+Probeer de tips & tricks uit op je eigen project, of maak ze in jouw i-love-web repo. Leg met comments uit hoe de technieken werken. Kopieer de code met comments naar je Learning log zodat dit je dit later weer kan teruglezen...
 
 ### Bron
 [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U)
