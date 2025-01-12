@@ -14,7 +14,7 @@ Joshua Porter, user experience designer, schrijft:
 
 ### Aanpak
 
-Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie ontwerpen in een Wireflow, zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een technisch plan hebt.
+Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie uitwerken in een nette Wireflow (of Screenflow), zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een goed technisch plan hebt.
 
 Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toen, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
 
