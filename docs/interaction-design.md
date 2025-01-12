@@ -2,10 +2,24 @@
 
 ## Interaction Design
 
-Over het bedenken en ontwerpen van interactie met animatie.
+Deze week ga je voor de opdracht een interactie ontwerpen en maken. 
 
+In een goed ontwerp hou je rekening met de gebruiker door goede feedback en feedforward te ontwerpen: *feedforward* zorgt ervoor dat een gebruiker weet wat die kan verwachten, met *feedback* zorg je ervoor dat een gebruiker weer dat een interactie is gelukt. 
 
+Feedback en Feedforward zijn interactie principes, door buttons goede labels en states te geven, en door het gebruik van animaties weet de gebruiker waar die aan toe is.
+
+Joshua Porter, user experience designer, schrijft:
 > Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
+
+
+### Aanpak
+
+Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie ontwerpen in een Wireflow, zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een technisch plan hebt.
+
+Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toen, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
+
+Voor uitgebreide instructies en uitleg kun je de workshop [User Interface Design uit sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/user-interface-design.md) gebruiken.
+
 
 
 <!--
