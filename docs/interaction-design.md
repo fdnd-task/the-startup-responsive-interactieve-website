@@ -2,11 +2,11 @@
 
 ## Interaction Design
 
-Deze week ga je voor de opdracht een interactie ontwerpen en maken. 
+Deze week ga je voor de opdracht een interactie ontwerpen, maken en testen. 
 
-In een goed ontwerp hou je rekening met de gebruiker door goede feedback en feedforward te ontwerpen: *feedforward* zorgt ervoor dat een gebruiker weet wat die kan verwachten, met *feedback* zorg je ervoor dat een gebruiker weer dat een interactie is gelukt. 
+In een goed ontwerp hou je rekening met de gebruiker door goede feedback en feedforward te ontwerpen: *feedforward* zorgt ervoor dat een gebruiker weet wat die kan verwachten, met *feedback* zorg je ervoor dat een gebruiker weet dat een interactie is gelukt. 
 
-Feedback en Feedforward zijn interactie principes, door buttons goede labels en states te geven, en door het gebruik van animaties weet de gebruiker waar die aan toe is.
+Feedback en Feedforward zijn interactie principes, bijvoorbeeld door buttons goede labels en states te geven, en door het gebruik van animaties weet de gebruiker waar die aan toe is.
 
 Joshua Porter, user experience designer, schrijft:
 > Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
