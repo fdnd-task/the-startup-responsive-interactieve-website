@@ -15,14 +15,13 @@ Joshua Porter, user experience designer, schrijft:
 ### Aanpak
 
 Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je de interactie uitwerken in een nette Wireflow (of Screenflow), zodat je goed weet wat je gaat bouwen. Onderzoek voordat je gaat bouwen welke technieken je nodig hebt, maak een breakdown-schets zodat je een goed technisch plan hebt. 
-Tip: bekijk nog eens de [workshop Prototyping](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md) met uitleg over het maken van wireflows en breakdown-schetsen.
 
 Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toen, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
 
 Bespreek  jouw User story, Wireflow en breakdown-schets met een collega en vraag om feedback bij je issue.
 
 
-Voor uitgebreide instructies en uitleg kun je de workshop [User Interface Design uit sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/user-interface-design.md) gebruiken.
+Tip: Voor uitgebreide instructies en uitleg kun je de workshop [User Interface Design uit sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/user-interface-design.md) gebruiken.
 
 
 
