@@ -18,7 +18,7 @@ Schrijf voor de interactie die je gaat maken eerst een User Story. Daarna ga je 
 
 Maak een issue aan met als titel de User story. Voeg hier de user story en uitleg van de interactie aan toen, de wireflow en de breakdown. Koppel de commits aan het issue. Vrijdag ga je o.a. de interactie testen met een User Test.
 
-Bespreek  jouw User story, Wireflow en breakdown-schets met een collega en vraag om feedback bij je issue.
+Bespreek jouw User story, Wireflow en breakdown-schets met een collega en vraag om feedback bij je issue.
 
 
 Tip: Voor uitgebreide instructies en uitleg kun je de workshop [User Interface Design uit sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/user-interface-design.md) gebruiken.
