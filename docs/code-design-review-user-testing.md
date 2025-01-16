@@ -8,7 +8,7 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 
 ### Aanpak
 
-Pak de issue 'User Story' er nog eens bij die je eerder deze week hebt aangemaakt. Gebruik jouw gekozen user story als leidraad voor het schrijven van een testplan en test dit vervolgens met minimaal drie gebruikers. Dit mogen medestudenten, mentoren of docenten zijn. Vervolgens verwerk je het testplan, jouw bevindingen en de testresultaten in dit issue 'User Story'. Vervolgens ga je aan de slag met de feedback die uit de User Test is gekomen. 
+Pak de issue 'User Story' er nog eens bij die je eerder deze week hebt aangemaakt. Gebruik jouw gekozen user story als startpunt voor het schrijven van een testplan en test dit vervolgens met minimaal drie gebruikers. Dit mogen medestudenten, mentoren of docenten zijn. Vervolgens verwerk je het testplan, jouw bevindingen en de testresultaten in dit issue 'User Story'. Vervolgens ga je aan de slag met de feedback die uit de User Test is gekomen. 
 
 Pak voor de User Test de instructies van de 'Code/design review User Test' er opnieuw bij. Deze kun je vinden in sprint 5 bij de workshop [Code/Design User Testing](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/code-design-review-user-testing.md). 
 
