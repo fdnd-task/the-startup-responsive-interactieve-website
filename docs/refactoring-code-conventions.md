@@ -8,14 +8,14 @@ _Code conventies_ zijn er om code overzichtelijk en goed onderhoudbaar te houden
 
 Tijdens een _refactor_ verandert er geen functionaliteit. Je maakt alleen je code schoner en netter. Een opdrachtgever of eindgebruiker heeft hier niet direct wat aan (tenzij je de code uiteindelijk overdraagt). Waarschijnlijk doe je dit dus helemaal voor jezelf, of je team als je in een team werkt. Als je over een jaar nog eens naar je code kijkt, wil je het meteen kunnen begrijpen.
 
-Tijd vrijmaken voor dit soort “onzichtbare” verbeterslagen is een belangrijk onderdeel van software ontwikkeling, wat frontend development ook is. Als je dit nooit doet, ontstaat er op termijn _technical debt_. Hierdoor wordt het in de toekomst moeilijker om nieuwe functionaliteiten toe te voegen, waar opdrachtgevers en eindgebruikers wél wat aan hebben. Zorg dus dat je regelmatig je eigen code “onderhoudt”.
+Tijd vrijmaken voor dit soort “onzichtbare” verbeterslagen is een belangrijk onderdeel van software ontwikkeling, wat frontend development ook is. Als je dit nooit doet, ontstaat er op termijn _technical debt_. Hierdoor wordt het in de toekomst moeilijker om nieuwe functionaliteiten (waar opdrachtgevers en eindgebruikers wél wat aan hebben) toe te voegen. Zorg dus dat je regelmatig je eigen code “onderhoudt”.
 
 Code conventies kun je ook gebruiken voor code reviews door anderen. Als iemand jouw code reviewt, is het handig om te weten welke conventies je aanhoudt. Zorg er dus voor dat je je eigen conventies opneemt in bijvoorbeeld de Readme van je repository, onder een specifieke kop.
 
 
 ### Ademruimte en inspringen
 
-Zoals je inmiddels weet, maakt het in HTML over het algemeen niet uit hoe je code oogt. Voor jezelf maakt dat echter wel uit. Controleer en verbeter je HTML aan de hand van de code conventie over [Ademruimte in je HTML](https://github.com/fdnd-task/the-client-website/blob/main/docs/code-conventies.md#geef-je-html-ademruimte).
+Zoals je inmiddels weet, maakt het voor de browser in HTML over het algemeen niet uit hoe je code er uit ziet. Voor jezelf maakt dat echter wel uit. Controleer en verbeter je HTML aan de hand van de code conventie over [Ademruimte in je HTML](https://github.com/fdnd-task/the-client-website/blob/main/docs/code-conventies.md#geef-je-html-ademruimte).
 
 Welke conventies hou je zelf aan? Gebruik je voor _inspringen_ altijd tabs? Gebruik je altijd 2 spaties, of 4? Hou je regels aan voor inline-level en block-level elementen? Wanneer gebruik je meer _ademruimte_? Probeer je eigen conventies en voorkeuren te herkennen. Schoon inconsequente code meteen op, en commit deze. Zet in je commit message bijvoorbeeld “Refactor HTML”. Zorg er tijdens deze refactorslag voor dat je geen functionaliteit verandert.
 
